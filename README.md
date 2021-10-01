@@ -8,7 +8,7 @@ To create a react app we need to run below command on the terminal
 
 ### `npm install express nodemon mongoose dotenv cors bootstrap axios`
 
-Connect to the cluster in mongodb atlas and copy connection string and replace it in the file .env
+Connect to the cluster in mongodb atlas and copy connection string and replace CONNECTION_STRING in the file .env
 
 Run application front end with the following command
 
